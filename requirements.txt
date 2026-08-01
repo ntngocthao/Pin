@@ -1,0 +1,16 @@
+# Da kiem tra thuc te tren Python 3.12.3 (2026-08)
+# Tested against Python 3.12.3 (Aug 2026)
+#
+# Cai dat (CPU, don gian nhat):
+#   pip install -r requirements.txt
+#
+# Neu co GPU NVIDIA, cai torch theo huong dan tai: https://pytorch.org/get-started/locally/
+torch>=2.6
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+scienceplots>=2.1
+seaborn>=0.13
+openpyxl>=3.1
+streamlit>=1.30
